@@ -2,6 +2,8 @@
 
 Copyright (c) 2022-2023 [Antmicro](https://www.antmicro.com)
 
+[![View on opensource.antmicro.com](https://img.shields.io/badge/View%20on-Antmicro%20Open%20Source%20Portal-332d37?style=flat-square)](https://opensource.antmicro.com/projects/kintex-410t-devboard)
+
 ![K410T devboard](/img/k410t-devboard.png)
 
 ### Overview
@@ -26,7 +28,7 @@ The remaining files are stored in the following directories:
 * 512MB of DDR3L memory
 * 256MB of SPI NOR flash
 * 8MB of SRAM memory
-* mounting option for 2x QSPI
+* Assembly option for 2x QSPI
 * Gigabit Ethernet
 * HDMI output
 * USB Type-C connector for FTDI JTAG and debug
@@ -36,7 +38,6 @@ The remaining files are stored in the following directories:
 ## Block diagram
 
 ![K410T devboard block diagram](/doc/antmicro-kintex-410t-devboard-block-diagram.png)
-
 
 ## Licensing
 
