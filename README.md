@@ -41,4 +41,4 @@ The remaining files are stored in the following directories:
 
 ## Licensing
 
-This project is published under the [Apache-2.0](LICENSE) License.
+This project is published under the [Apache-2.0](LICENSE) license.
