@@ -33,6 +33,10 @@ The remaining files are stored in the following directories:
 * 2x PMOD
 * FMC+ connector
 
+## Block diagram
+
+![K410T devboard block diagram](/doc/antmicro-kintex-410t-devboard-block-diagram.png)
+
 
 ## Licensing
 
