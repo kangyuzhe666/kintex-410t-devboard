@@ -37,7 +37,7 @@ The remaining files are stored in the following directories:
 
 ## Block diagram
 
-![K410T devboard block diagram](/doc/antmicro-kintex-410t-devboard-block-diagram.png)
+![K410T devboard block diagram](/doc/kintex-410t-devboard-block-diagram.png)
 
 ## Licensing
 
